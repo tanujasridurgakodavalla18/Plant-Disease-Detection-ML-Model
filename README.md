@@ -62,7 +62,6 @@ Plant-Disease-Detection-ML/
 │── predict.py
 │── requirements.txt
 │── README.md
-│── plant_disease.csv
 │── plant_disease_model.pkl
 │── scaler.pkl
 │── label_encoder.pkl
