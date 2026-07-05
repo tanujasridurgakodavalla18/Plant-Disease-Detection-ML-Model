@@ -5,6 +5,20 @@
 This project is a Machine Learning-based Plant Disease Detection System that predicts plant diseases using extracted leaf features. Multiple machine learning algorithms were trained and evaluated to identify the best-performing model for disease classification.
 
 ---
+## 📂 Dataset
+
+This project uses a subset of the PlantVillage dataset.
+
+- Full dataset source: Kaggle
+- Link:https://www.kaggle.com/datasets/emmarex/plantdisease
+
+From the full dataset, only selected classes/images were used for training and testing due to computational constraints.
+
+Used classes:
+- Tomato___Healthy  
+- Tomato___Late_blight  
+- Potato___Early_blight  
+- Pepper__bell___Bacterial_spot
 
 ## 🚀 Features
 
